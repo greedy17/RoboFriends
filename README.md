@@ -1,3 +1,6 @@
+RoboFriends is a colorful, single-paged React app. It utilizes a robot API to pull in an array of objects (robots), with random names and photos. That information information is used to build a beautiful interactive friends list. 
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
